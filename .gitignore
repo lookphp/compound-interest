@@ -1,0 +1,9 @@
+# 由脚本生成，可随时重建
+index.html
+
+# 脚本运行输出
+tools/data/market_stats_out.txt
+
+# Python
+__pycache__/
+*.pyc

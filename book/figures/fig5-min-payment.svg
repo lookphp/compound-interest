@@ -1,0 +1,33 @@
+<svg viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="欠 1 万元、年化 18%、只还最低 2%：五年余额曲线" class="fig">
+<rect width="680" height="380" fill="#ffffff"/>
+<text x="58" y="20" font-size="13.5" font-weight="700" fill="#1f2328">欠 1 万元、年化 18%、只还最低 2%：五年余额曲线</text>
+<line x1="58" y1="334.0" x2="658" y2="334.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="338.0" text-anchor="end" font-size="11" fill="#5b6570">0</text>
+<line x1="58" y1="259.0" x2="658" y2="259.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="263.0" text-anchor="end" font-size="11" fill="#5b6570">3</text>
+<line x1="58" y1="184.0" x2="658" y2="184.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="188.0" text-anchor="end" font-size="11" fill="#5b6570">6</text>
+<line x1="58" y1="109.0" x2="658" y2="109.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="113.0" text-anchor="end" font-size="11" fill="#5b6570">9</text>
+<line x1="58" y1="34.0" x2="658" y2="34.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="38.0" text-anchor="end" font-size="11" fill="#5b6570">12</text>
+<line x1="58.0" y1="334" x2="58.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="58.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">0</text>
+<line x1="178.0" y1="334" x2="178.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="178.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">1</text>
+<line x1="298.0" y1="334" x2="298.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="298.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">2</text>
+<line x1="418.0" y1="334" x2="418.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="418.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">3</text>
+<line x1="538.0" y1="334" x2="538.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="538.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">4</text>
+<line x1="658.0" y1="334" x2="658.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="658.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">5</text>
+<line x1="58" y1="334" x2="658" y2="334" stroke="#1f2328" stroke-width="1.4"/>
+<line x1="58" y1="334" x2="58" y2="34" stroke="#1f2328" stroke-width="1.4"/>
+<text x="358" y="372" text-anchor="middle" font-size="12" fill="#5b6570">年</text>
+<text x="14" y="184" text-anchor="middle" font-size="12" fill="#5b6570" transform="rotate(-90 14 184)">剩余欠款（千元）</text>
+<path d="M58.0,84.0 L78.0,86.6 L98.0,89.3 L118.0,91.8 L138.0,94.4 L158.0,96.9 L178.0,99.4 L198.0,101.9 L218.0,104.4 L238.0,106.8 L258.0,109.2 L278.0,111.6 L298.0,113.9 L318.0,116.3 L338.0,118.6 L358.0,120.8 L378.0,123.1 L398.0,125.3 L418.0,127.5 L438.0,129.7 L458.0,131.9 L478.0,134.0 L498.0,136.1 L518.0,138.2 L538.0,140.3 L558.0,142.3 L578.0,144.4 L598.0,146.4 L618.0,148.3 L638.0,150.3 L658.0,152.3" fill="none" stroke="#b91c1c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="658.0" cy="152.2" r="4" fill="#b45309"/>
+<text x="650.0" y="142.2" text-anchor="end" font-size="11" font-weight="700" fill="#b45309">5年后仍欠 7,270 元</text>
+</svg>

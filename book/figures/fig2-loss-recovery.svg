@@ -1,0 +1,37 @@
+<svg viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="亏损回本的非对称：跌多少，需要涨多少才回来" class="fig">
+<rect width="680" height="380" fill="#ffffff"/>
+<text x="58" y="20" font-size="13.5" font-weight="700" fill="#1f2328">亏损回本的非对称：跌多少，需要涨多少才回来</text>
+<line x1="58" y1="334.0" x2="658" y2="334.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="338.0" text-anchor="end" font-size="11" fill="#5b6570">0</text>
+<line x1="58" y1="248.3" x2="658" y2="248.3" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="252.3" text-anchor="end" font-size="11" fill="#5b6570">200</text>
+<line x1="58" y1="162.6" x2="658" y2="162.6" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="166.6" text-anchor="end" font-size="11" fill="#5b6570">400</text>
+<line x1="58" y1="76.9" x2="658" y2="76.9" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="80.9" text-anchor="end" font-size="11" fill="#5b6570">600</text>
+<line x1="58.0" y1="334" x2="58.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="58.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">0</text>
+<line x1="158.0" y1="334" x2="158.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="158.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">15</text>
+<line x1="258.0" y1="334" x2="258.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="258.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">30</text>
+<line x1="358.0" y1="334" x2="358.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="358.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">45</text>
+<line x1="458.0" y1="334" x2="458.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="458.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">60</text>
+<line x1="558.0" y1="334" x2="558.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="558.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">75</text>
+<line x1="658.0" y1="334" x2="658.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="658.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">90</text>
+<line x1="58" y1="334" x2="658" y2="334" stroke="#1f2328" stroke-width="1.4"/>
+<line x1="58" y1="334" x2="58" y2="34" stroke="#1f2328" stroke-width="1.4"/>
+<text x="358" y="372" text-anchor="middle" font-size="12" fill="#5b6570">累计跌幅（%）</text>
+<text x="14" y="184" text-anchor="middle" font-size="12" fill="#5b6570" transform="rotate(-90 14 184)">回本所需涨幅（%）</text>
+<path d="M58.0,334.0 L71.3,333.1 L84.7,332.2 L98.0,331.3 L111.3,330.3 L124.7,329.2 L138.0,328.2 L151.3,327.0 L164.7,325.8 L178.0,324.6 L191.3,323.3 L204.7,321.9 L218.0,320.5 L231.3,318.9 L244.7,317.3 L258.0,315.6 L271.3,313.8 L284.7,311.9 L298.0,309.9 L311.3,307.7 L324.7,305.4 L338.0,303.0 L351.3,300.3 L364.7,297.5 L378.0,294.4 L391.3,291.1 L404.7,287.6 L418.0,283.7 L431.3,279.5 L444.7,274.8 L458.0,269.7 L471.3,264.1 L484.7,257.8 L498.0,250.8 L511.3,242.9 L524.7,234.0 L538.0,223.8 L551.3,212.0 L564.7,198.3 L578.0,182.1 L591.3,162.6 L604.7,138.8 L618.0,109.0 L631.3,70.7 L644.7,34.0 L658.0,34.0" fill="none" stroke="#b91c1c" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="391.3" cy="291.1" r="4" fill="#b45309"/>
+<text x="383.3" y="281.1" text-anchor="end" font-size="11" font-weight="700" fill="#b45309">−50% → +100%</text>
+<circle cx="524.7" cy="234.0" r="4" fill="#b45309"/>
+<text x="516.7" y="224.0" text-anchor="end" font-size="11" font-weight="700" fill="#b45309">−70% → +233%</text>
+<circle cx="658.0" cy="34.0" r="4" fill="#b45309"/>
+<text x="650.0" y="24.0" text-anchor="end" font-size="11" font-weight="700" fill="#b45309">−90% → +900%</text>
+</svg>

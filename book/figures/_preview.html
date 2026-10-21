@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>图表预览（由 make_figures.py 生成，勿手改）</title>
+<style>
+body{margin:0;padding:24px;background:#fbfaf7;font:15px/1.6 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;color:#1f2328}
+h2{font-size:15px;margin:28px 0 8px;color:#5b6570;font-weight:600}
+.card{background:#fff;border:1px solid #e3e0d8;border-radius:10px;padding:8px;max-width:720px}
+svg{width:100%;height:auto;display:block}
+</style>
+</head>
+<body>
+<div id="host"></div>
+<script>
+const figs = [
+  ["fig1-linear-vs-compound", "fig1-linear-vs-compound.svg"],
+  ["fig2-loss-recovery", "fig2-loss-recovery.svg"],
+  ["fig3-fee-erosion", "fig3-fee-erosion.svg"],
+  ["fig4-start-early", "fig4-start-early.svg"],
+  ["fig5-min-payment", "fig5-min-payment.svg"],
+  ["fig6-ltcm", "fig6-ltcm.svg"],
+  ["fig7-livermore", "fig7-livermore.svg"],
+  ["fig8-annual-distribution", "fig8-annual-distribution.svg"],
+];
+const host = document.getElementById('host');
+figs.forEach(([title, file]) => {
+  const h = document.createElement('h2'); h.textContent = title; host.appendChild(h);
+  const d = document.createElement('div'); d.className = 'card'; host.appendChild(d);
+  fetch(file).then(r => r.text()).then(t => { d.innerHTML = t; })
+    .catch(e => { d.textContent = '加载失败: ' + e; });
+});
+</script>
+</body>
+</html>

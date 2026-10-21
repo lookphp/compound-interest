@@ -1,0 +1,46 @@
+<svg viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="每月投 2,000 元，年化 8%：晚十年开始的差距" class="fig">
+<rect width="680" height="380" fill="#ffffff"/>
+<text x="58" y="20" font-size="13.5" font-weight="700" fill="#1f2328">每月投 2,000 元，年化 8%：晚十年开始的差距</text>
+<line x1="58" y1="334.0" x2="658" y2="334.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="338.0" text-anchor="end" font-size="11" fill="#5b6570">0</text>
+<line x1="58" y1="274.0" x2="658" y2="274.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="278.0" text-anchor="end" font-size="11" fill="#5b6570">100</text>
+<line x1="58" y1="214.0" x2="658" y2="214.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="218.0" text-anchor="end" font-size="11" fill="#5b6570">200</text>
+<line x1="58" y1="154.0" x2="658" y2="154.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="158.0" text-anchor="end" font-size="11" fill="#5b6570">300</text>
+<line x1="58" y1="94.0" x2="658" y2="94.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="98.0" text-anchor="end" font-size="11" fill="#5b6570">400</text>
+<line x1="58" y1="34.0" x2="658" y2="34.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="38.0" text-anchor="end" font-size="11" fill="#5b6570">500</text>
+<line x1="58.0" y1="334" x2="58.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="58.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">25</text>
+<line x1="143.7" y1="334" x2="143.7" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="143.7" y="352" text-anchor="middle" font-size="11" fill="#5b6570">30</text>
+<line x1="229.4" y1="334" x2="229.4" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="229.4" y="352" text-anchor="middle" font-size="11" fill="#5b6570">35</text>
+<line x1="315.1" y1="334" x2="315.1" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="315.1" y="352" text-anchor="middle" font-size="11" fill="#5b6570">40</text>
+<line x1="400.9" y1="334" x2="400.9" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="400.9" y="352" text-anchor="middle" font-size="11" fill="#5b6570">45</text>
+<line x1="486.6" y1="334" x2="486.6" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="486.6" y="352" text-anchor="middle" font-size="11" fill="#5b6570">50</text>
+<line x1="572.3" y1="334" x2="572.3" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="572.3" y="352" text-anchor="middle" font-size="11" fill="#5b6570">55</text>
+<line x1="658.0" y1="334" x2="658.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="658.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">60</text>
+<line x1="58" y1="334" x2="658" y2="334" stroke="#1f2328" stroke-width="1.4"/>
+<line x1="58" y1="334" x2="58" y2="34" stroke="#1f2328" stroke-width="1.4"/>
+<text x="358" y="372" text-anchor="middle" font-size="12" fill="#5b6570">年龄</text>
+<text x="14" y="184" text-anchor="middle" font-size="12" fill="#5b6570" transform="rotate(-90 14 184)">终值（万元）</text>
+<line x1="66" y1="44" x2="88" y2="44" stroke="#b45309" stroke-width="2.4"/>
+<text x="94" y="48" font-size="11.5" fill="#1f2328">25 岁开始</text>
+<line x1="66" y1="62" x2="88" y2="62" stroke="#2563eb" stroke-width="2.4"/>
+<text x="94" y="66" font-size="11.5" fill="#1f2328">35 岁开始</text>
+<path d="M58.0,334.0 L66.6,333.3 L75.1,332.5 L83.7,331.7 L92.3,330.9 L100.9,330.0 L109.4,329.1 L118.0,328.2 L126.6,327.2 L135.1,326.2 L143.7,325.2 L152.3,324.1 L160.9,323.0 L169.4,321.8 L178.0,320.5 L186.6,319.3 L195.1,317.9 L203.7,316.6 L212.3,315.1 L220.9,313.6 L229.4,312.0 L238.0,310.4 L246.6,308.7 L255.1,307.0 L263.7,305.1 L272.3,303.2 L280.9,301.2 L289.4,299.2 L298.0,297.0 L306.6,294.8 L315.1,292.5 L323.7,290.1 L332.3,287.5 L340.9,284.9 L349.4,282.2 L358.0,279.3 L366.6,276.4 L375.1,273.3 L383.7,270.1 L392.3,266.8 L400.9,263.3 L409.4,259.7 L418.0,256.0 L426.6,252.1 L435.1,248.0 L443.7,243.8 L452.3,239.4 L460.9,234.8 L469.4,230.0 L478.0,225.0 L486.6,219.9 L495.1,214.5 L503.7,208.9 L512.3,203.1 L520.9,197.0 L529.4,190.7 L538.0,184.2 L546.6,177.3 L555.1,170.2 L563.7,162.9 L572.3,155.2 L580.9,147.2 L589.4,138.8 L598.0,130.1 L606.6,121.1 L615.1,111.7 L623.7,102.0 L632.3,91.8 L640.9,81.2 L649.4,70.2 L658.0,58.7" fill="none" stroke="#b45309" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M229.4,334.0 L238.0,333.3 L246.6,332.5 L255.1,331.7 L263.7,330.9 L272.3,330.0 L280.9,329.1 L289.4,328.2 L298.0,327.2 L306.6,326.2 L315.1,325.2 L323.7,324.1 L332.3,323.0 L340.9,321.8 L349.4,320.5 L358.0,319.3 L366.6,317.9 L375.1,316.6 L383.7,315.1 L392.3,313.6 L400.9,312.0 L409.4,310.4 L418.0,308.7 L426.6,307.0 L435.1,305.1 L443.7,303.2 L452.3,301.2 L460.9,299.2 L469.4,297.0 L478.0,294.8 L486.6,292.5 L495.1,290.1 L503.7,287.5 L512.3,284.9 L520.9,282.2 L529.4,279.3 L538.0,276.4 L546.6,273.3 L555.1,270.1 L563.7,266.8 L572.3,263.3 L580.9,259.7 L589.4,256.0 L598.0,252.1 L606.6,248.0 L615.1,243.8 L623.7,239.4 L632.3,234.8 L640.9,230.0 L649.4,225.0 L658.0,219.9" fill="none" stroke="#2563eb" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="658.0" cy="58.7" r="4" fill="#b45309"/>
+<text x="650.0" y="48.7" text-anchor="end" font-size="11" font-weight="700" fill="#b45309">458.8 万</text>
+<circle cx="658.0" cy="219.9" r="4" fill="#b45309"/>
+<text x="650.0" y="209.9" text-anchor="end" font-size="11" font-weight="700" fill="#b45309">190.2 万</text>
+</svg>

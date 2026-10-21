@@ -1,0 +1,35 @@
+<svg viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LTCM 累计净值" class="fig">
+<rect width="680" height="380" fill="#ffffff"/>
+<text x="58" y="20" font-size="13.5" font-weight="700" fill="#1f2328">LTCM：四个好年份，第五年抹平（起点 = 1）</text>
+<line x1="58" y1="334.0" x2="658" y2="334.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="338.0" text-anchor="end" font-size="11" fill="#5b6570">0</text>
+<line x1="58" y1="250.7" x2="658" y2="250.7" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="254.7" text-anchor="end" font-size="11" fill="#5b6570">1</text>
+<line x1="58" y1="167.3" x2="658" y2="167.3" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="171.3" text-anchor="end" font-size="11" fill="#5b6570">2</text>
+<line x1="58" y1="84.0" x2="658" y2="84.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="88.0" text-anchor="end" font-size="11" fill="#5b6570">3</text>
+<line x1="118.0" y1="334" x2="118.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="118.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">1994</text>
+<line x1="238.0" y1="334" x2="238.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="238.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">1995</text>
+<line x1="358.0" y1="334" x2="358.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="358.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">1996</text>
+<line x1="478.0" y1="334" x2="478.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="478.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">1997</text>
+<line x1="598.0" y1="334" x2="598.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="598.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">1998</text>
+<line x1="58" y1="334" x2="658" y2="334" stroke="#1f2328" stroke-width="1.4"/>
+<line x1="58" y1="334" x2="58" y2="34" stroke="#1f2328" stroke-width="1.4"/>
+<text x="358" y="372" text-anchor="middle" font-size="12" fill="#5b6570">年份</text>
+<text x="14" y="184" text-anchor="middle" font-size="12" fill="#5b6570" transform="rotate(-90 14 184)">累计净值（倍）</text>
+<line x1="58" y1="250.7" x2="658" y2="250.7" stroke="#5b6570" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="86.8" y="226.9" width="62.4" height="107.1" fill="#b45309" opacity="0.85"/>
+<rect x="206.8" y="181.1" width="62.4" height="152.9" fill="#b45309" opacity="0.85"/>
+<rect x="326.8" y="118.7" width="62.4" height="215.3" fill="#b45309" opacity="0.85"/>
+<rect x="446.8" y="81.9" width="62.4" height="252.1" fill="#b45309" opacity="0.85"/>
+<rect x="566.8" y="308.8" width="62.4" height="25.2" fill="#b91c1c" opacity="0.85"/>
+<path d="M58.0,250.7 L118.0,226.9 L238.0,181.1 L358.0,118.7 L478.0,81.9 L598.0,308.8" fill="none" stroke="#1f2328" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4 3"/>
+<text x="478.0" y="71.9" text-anchor="middle" font-size="11.5" font-weight="700" fill="#b45309">四年 3.03 倍</text>
+<text x="592.0" y="298.8" text-anchor="end" font-size="11.5" font-weight="700" fill="#b91c1c">1998：−90% → 0.30</text>
+</svg>

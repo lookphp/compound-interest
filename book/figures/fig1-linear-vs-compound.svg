@@ -1,0 +1,48 @@
+<svg viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="线性与复利的分水岭" class="fig">
+<rect width="680" height="380" fill="#ffffff"/>
+<text x="58" y="20" font-size="13.5" font-weight="700" fill="#1f2328">线性 vs 复利：起点都是 100</text>
+<line x1="58" y1="334.0" x2="658" y2="334.0" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="338.0" text-anchor="end" font-size="11" fill="#5b6570">0</text>
+<line x1="58" y1="268.8" x2="658" y2="268.8" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="272.8" text-anchor="end" font-size="11" fill="#5b6570">1000</text>
+<line x1="58" y1="203.6" x2="658" y2="203.6" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="207.6" text-anchor="end" font-size="11" fill="#5b6570">2000</text>
+<line x1="58" y1="138.3" x2="658" y2="138.3" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="142.3" text-anchor="end" font-size="11" fill="#5b6570">3000</text>
+<line x1="58" y1="73.1" x2="658" y2="73.1" stroke="#e3e0d8" stroke-width="1"/>
+<text x="50" y="77.1" text-anchor="end" font-size="11" fill="#5b6570">4000</text>
+<line x1="58.0" y1="334" x2="58.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="58.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">0</text>
+<line x1="133.0" y1="334" x2="133.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="133.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">5</text>
+<line x1="208.0" y1="334" x2="208.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="208.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">10</text>
+<line x1="283.0" y1="334" x2="283.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="283.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">15</text>
+<line x1="358.0" y1="334" x2="358.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="358.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">20</text>
+<line x1="433.0" y1="334" x2="433.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="433.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">25</text>
+<line x1="508.0" y1="334" x2="508.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="508.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">30</text>
+<line x1="583.0" y1="334" x2="583.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="583.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">35</text>
+<line x1="658.0" y1="334" x2="658.0" y2="338" stroke="#5b6570" stroke-width="1"/>
+<text x="658.0" y="352" text-anchor="middle" font-size="11" fill="#5b6570">40</text>
+<line x1="58" y1="334" x2="658" y2="334" stroke="#1f2328" stroke-width="1.4"/>
+<line x1="58" y1="334" x2="58" y2="34" stroke="#1f2328" stroke-width="1.4"/>
+<text x="358" y="372" text-anchor="middle" font-size="12" fill="#5b6570">年</text>
+<text x="14" y="184" text-anchor="middle" font-size="12" fill="#5b6570" transform="rotate(-90 14 184)">倍数（起点=100）</text>
+<line x1="66" y1="44" x2="88" y2="44" stroke="#2563eb" stroke-width="2.4" stroke-dasharray="6 4"/>
+<text x="94" y="48" font-size="11.5" fill="#1f2328">线性：每年 +10</text>
+<line x1="66" y1="62" x2="88" y2="62" stroke="#b45309" stroke-width="2.4"/>
+<text x="94" y="66" font-size="11.5" fill="#1f2328">复利：每年 ×1.10</text>
+<path d="M58.0,327.5 L73.0,326.8 L88.0,326.2 L103.0,325.5 L118.0,324.9 L133.0,324.2 L148.0,323.6 L163.0,322.9 L178.0,322.3 L193.0,321.6 L208.0,321.0 L223.0,320.3 L238.0,319.7 L253.0,319.0 L268.0,318.3 L283.0,317.7 L298.0,317.0 L313.0,316.4 L328.0,315.7 L343.0,315.1 L358.0,314.4 L373.0,313.8 L388.0,313.1 L403.0,312.5 L418.0,311.8 L433.0,311.2 L448.0,310.5 L463.0,309.9 L478.0,309.2 L493.0,308.6 L508.0,307.9 L523.0,307.3 L538.0,306.6 L553.0,306.0 L568.0,305.3 L583.0,304.7 L598.0,304.0 L613.0,303.3 L628.0,302.7 L643.0,302.0 L658.0,301.4" fill="none" stroke="#2563eb" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 4"/>
+<path d="M58.0,327.5 L73.0,326.8 L88.0,326.1 L103.0,325.3 L118.0,324.5 L133.0,323.5 L148.0,322.4 L163.0,321.3 L178.0,320.0 L193.0,318.6 L208.0,317.1 L223.0,315.4 L238.0,313.5 L253.0,311.5 L268.0,309.2 L283.0,306.8 L298.0,304.0 L313.0,301.0 L328.0,297.7 L343.0,294.1 L358.0,290.1 L373.0,285.7 L388.0,280.9 L403.0,275.6 L418.0,269.8 L433.0,263.3 L448.0,256.3 L463.0,248.5 L478.0,240.0 L493.0,230.5 L508.0,220.2 L523.0,208.8 L538.0,196.3 L553.0,182.5 L568.0,167.4 L583.0,150.7 L598.0,132.4 L613.0,112.2 L628.0,90.1 L643.0,65.7 L658.0,38.8" fill="none" stroke="#b45309" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="283.0" y1="327.5" x2="283.0" y2="44" stroke="#5b6570" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="283.0" cy="306.8" r="4" fill="#b45309"/>
+<text x="289.0" y="298.8" font-size="11" fill="#b45309" font-weight="700">第15年 1.67×</text>
+<line x1="508.0" y1="327.5" x2="508.0" y2="44" stroke="#5b6570" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="508.0" cy="220.2" r="4" fill="#b45309"/>
+<text x="514.0" y="212.2" font-size="11" fill="#b45309" font-weight="700">第30年 4.36×</text>
+</svg>
