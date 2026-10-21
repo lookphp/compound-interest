@@ -1,0 +1,9 @@
+# 统一行尾，避免 Windows 检出时脚本/数据被改成 CRLF
+* text=auto eol=lf
+
+*.py   text eol=lf
+*.md   text eol=lf
+*.svg  text eol=lf
+*.csv  text eol=lf
+*.yml  text eol=lf
+*.html text eol=lf

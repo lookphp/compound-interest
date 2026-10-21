@@ -1,0 +1,30 @@
+name: verify
+
+# 每次推送都跑一遍全部校验。
+# 这本书的规矩是"能算的数字必须由脚本生成或互检"，
+# 那么"检查有没有跑过"这件事，也不该靠人记得。
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 脚本零依赖（只用标准库），所以没有 install 步骤。
+      # 这是刻意的：五年后 pip 装不上任何东西时，它还能跑。
+      - name: 跑全部校验
+        run: python tools/verify.py
+
+      - name: 确认构建产物可生成
+        run: |
+          python tools/build.py
+          test -s index.html
