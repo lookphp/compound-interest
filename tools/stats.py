@@ -247,6 +247,10 @@ def main():
 
     problems.extend(typo_report("书稿", s["md"]))
     problems.extend(typo_report("README", README.read_text(encoding="utf-8")))
+    # 公众号稿同属对外文字，与书稿同一套卫生标准
+    # （第 4 篇首次出现：脚本写入时用了 CRLF + 直引号，靠人眼是查不过来的）
+    for art in sorted((ROOT / "articles").glob("*.md")):
+        problems.extend(typo_report(f"文章 {art.name}", art.read_text(encoding="utf-8")))
 
     if "--write" in sys.argv:
         rd = README.read_text(encoding="utf-8")
