@@ -140,6 +140,16 @@ def main():
         if sec.split(".")[0] != str(seq.index(p) + 1):
             problems.append(f"节号 {sec} 不属于第{p}部分")
             break
+    # 同一部分内的节号必须从 1 连续到 N。
+    # 反向测试：把 2.7 改成 2.9 必须被抓住（旧版只比对整数部分，漏了跳号）。
+    by_part = {}
+    for p, sec in s["sec_pairs"]:
+        by_part.setdefault(p, []).append(int(sec.split(".")[1]))
+    for p, minors in by_part.items():
+        if minors != list(range(1, len(minors) + 1)):
+            problems.append(
+                f"第{p}部分的节号不连续: " + ", ".join(str(m) for m in minors)
+            )
 
     # 附录 B 索引必须与卡片实际所在节一致（含名称）
     for num, name, idx_sec in s["index_rows"]:
